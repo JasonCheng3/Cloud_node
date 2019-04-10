@@ -1,3 +1,5 @@
+在 2-structured-data 裡 install and npm start 
+
 # Getting started with Node.js on Google Cloud Platform
 
 This repository contains the complete sample code for the
